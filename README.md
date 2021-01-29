@@ -1,7 +1,7 @@
 # Company description:
 Stockflicks courses empower students to gain financial knowledge by coding.  We teaches programming by building, especially financial strategies. Through immersive building experience, every students who leave our course would gain insight in stock market as well as programming tools that you need to succeed.
 
-# Course description (Accelerating Dual Momentum Strategy):
+# Course description - Accelerating Dual Momentum Strategy:
 This course is about Accelerating Dual Momentum Strategy. There are 5 main sections in total. We will walk you through data grabbing from Yahoo Financials, initialization (pandas DataFrame), score calculations using different monthly returns, signal generation by the scores computed, and results summarization using flask web app (which can be uploaded in AWS Elastic Beanstalk server).
 
 # Stockflicks Live-classroom Edge
